@@ -46,10 +46,11 @@ section#redes-sociais {
     text-align: right; /*Coloca os links do lado direito da tela*/
     margin-left: 20px;
     margin-right: 2px;
+
 }
 
 section#redes-sociais img {
-    width: 50px;
+    width: 40px;
     margin: 10px; /*separar as logos*/
     border-radius: 50%; /*Transforma imagens quadradas em circulos*/
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
