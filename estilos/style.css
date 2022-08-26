@@ -44,9 +44,9 @@ iframe#tela {
 
 section#redes-sociais {
     text-align: right; /*Coloca os links do lado direito da tela*/
-    padding-top: 67px;
+    padding-top: 70px;
     margin-left: 20px;
-    margin-right: 2px;
+    margin-right: 1px;
 }
 
 section#redes-sociais img {
